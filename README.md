@@ -12,5 +12,5 @@ Directions from mariville to hyderabad
 
 * mainly we need to carry pocket full of money.
     * we need to plan before the tour to enjoy alot.
-* mainly we need to carry requried Health medicines to keep supportive.
-    * go make more memories we neeed to enjoy every second.
+* we need to carry requried Health medicines to keep supportive through the tour.
+    * to make more memories we neeed to enjoy every second.
