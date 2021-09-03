@@ -9,3 +9,8 @@ Directions from mariville to hyderabad
     1. we need to handover bagages to delivery point & need to take boarding passes.
     2. and we need to be at loody before 30 min so the flight staff will allow us to the cabin.
 3. we will reach to airport in hyderabad.
+
+* mainly we need to carry pocket full of money.
+    * we need to plan before the tour to enjoy alot.
+* mainly we need to carry requried Health medicines to keep supportive.
+    * go make more memories we neeed to enjoy every second.
