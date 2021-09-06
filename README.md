@@ -17,10 +17,12 @@ Directions from mariville to hyderabad
 
 **[To Know more about me](AboutMe.md)**
 ****
-# Guiding neighbour to bring reduired items
+### Guiding neighbour to bring reduired items
  One week back new person has enter to my room and he asked me that what items should we bring, Where we get and what the price of those items, I guided him to bring required items to servive for intial days, Those are listed below.
+
 |Food |Location |Price|
----    *---*       ---*
+---    ---*      ---
+   |      |     | 
 |Rice|Walmart|25$|
 |Curd|Walmart|4$|
 |Vegetables|Walmart|5$|
