@@ -27,10 +27,12 @@ Directions from mariville to hyderabad
 |Vegetables|Walmart|5$|
 |Water Bottles|Walmart|3$|
 ****
+#### My Favorite Quotes
 > The purpose of our lives is to be happy.- *Dalai Lama*
 >
 > If your are not willing to learn, No one  help you. If your are determined to learn no one will stop you.- *Zig ziglar*
 ***
+## Fibonacci Numbers
 >In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 >
 >F(1)=1, F(0)=0
