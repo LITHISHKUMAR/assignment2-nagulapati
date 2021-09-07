@@ -17,7 +17,7 @@ Directions from mariville to hyderabad
 
 **[To Know more about me](AboutMe.md)**
 ****
-### Guiding neighbour to bring reduired items
+### Guiding neighbour to bring reduired items 
  One week back new person has enter to my room and he asked me that what items should we bring, Where we get and what the price of those items, I guided him to bring required items to servive for intial days, Those are listed below.
 
 |Food |Location |Price|
@@ -26,4 +26,6 @@ Directions from mariville to hyderabad
 |Curd|Walmart|4$|
 |Vegetables|Walmart|5$|
 |Water Bottles|Walmart|3$|
- 
+****
+> The purpose of our lives is to be happy.- *Dalai Lama*
+> If your are not willing to learn, No one  help you. If your are determined to learn no one will stop you.- *Zig ziglar*
