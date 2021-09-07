@@ -58,3 +58,22 @@ Directions from mariville to hyderabad
 >They also appear in biological settings, such as branching in trees, the arrangement of leaves on a stem, the fruit sprouts of a pineapple, the flowering of an artichoke, an uncurling fern, and the arrangement of a pine cone's bracts.
 >
 >Fibonacci numbers are also closely related to Lucas numbers L(n), in that the Fibonacci and Lucas numbers form a complementary pair of Lucas sequences: Un(1,-1)=F(n) and Vn(1,-1)=L(n).
+
+For your Reference <https://en.wikipedia.org/wiki/Fibonacci_number>
+### Fibonacci numbers code
+```
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+```
+
+For Code Reference <https://cp-algorithms.com/algebra/fibonacci-numbers.html>
