@@ -30,3 +30,14 @@ Directions from mariville to hyderabad
 > The purpose of our lives is to be happy.- *Dalai Lama*
 >
 > If your are not willing to learn, No one  help you. If your are determined to learn no one will stop you.- *Zig ziglar*
+***
+>In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
+
+{\displaystyle F_{0}=0,\quad F_{1}=1,}{\displaystyle F_{0}=0,\quad F_{1}=1,}
+and
+{\displaystyle F_{n}=F_{n-1}+F_{n-2}}{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+for n > 1.
+The sequence starts:[2]
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+Under some older definitions, the value {\displaystyle F_{0}=0}F_{0}=0 is omitted, so that the sequence starts with {\displaystyle F_{1}=F_{2}=1,}{\displaystyle F_{1}=F_{2}=1,} and the recurrence {\displaystyle F_{n}=F_{n-1}+F_{n-2}}{\displaystyle F_{n}=F_{n-1}+F_{n-2}} is valid for n > 2.[3][4] In his original definition, Fibonacci started the sequence with {\dis
