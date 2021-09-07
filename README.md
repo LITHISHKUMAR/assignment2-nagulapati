@@ -34,9 +34,15 @@ Directions from mariville to hyderabad
 >In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 >
 >F(1)=1, F(0)=0
+>
 >and
+>
 >F(n)=F(n-1)+F(n-2)
+>
 >for n > 1.
+>
 >The sequence starts:
+>
 >       0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+>
 >Under some older definitions, the value F(0)=0 is omitted, so that the sequence starts with F(1)=F(2)=F(0) and the recurrence F(n)=F(n-1)+F(n-2) is valid for n > 2. In his original definition, Fibonacci started the sequence with F(1)=2,F(2)=2 .
